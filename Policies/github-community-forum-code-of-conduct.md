@@ -1,12 +1,16 @@
 ---
-title:  GitHub Community Forum Code of Conduct
+title: GitHub Community Forum Code of Conduct
+productVersions:
+  dotcom: '*'
+redirect_from:
+  - /articles/github-community-forum-code-of-conduct
 ---
 
 ### Overview and Purpose
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the developer community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
 
-The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](https://help.github.com/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
+The GitHub Community Forum is intended to be a place for further collaboration, support, and brainstorming. This is a civilized place for connecting with other users, learning new skills, sharing feedback and ideas, and finding all the support you need for your GitHub projects. By participating in this Community, you are agreeing to the same [Terms of Service](/articles/github-terms-of-service/) that apply to GitHub.com, as well as this Community-specific Code of Conduct.
 
 With this Code of Conduct, we hope to help you understand how best to collaborate in the GitHub Community Forum, what you can expect from moderators, and what type of actions or content may result in temporary or permanent suspension from Community participation. We will investigate any abuse reports and may moderate public content within the Community that we determine to be in violation of either the GitHub Terms of Service or this Code of Conduct.
 
@@ -66,7 +70,7 @@ The following are not hard and fast rules, merely aids to the human judgment of 
 
 - **Doxxing and invasion of privacy.** Don't post other people's personal information, such as phone numbers, private email addresses, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. Depending on the context, such as in the case of intimidation or harassment, we may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject.
 
-- **Prurient/Sexually explicit content.** Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://github.com/contact) beforehand.
+- **Prurient/Sexually explicit content.** Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://support.github.com/contact) beforehand.
 
 - **Spam.** Respect the GitHub Community Forum. Don’t post advertisements, link to spammy websites, or otherwise vandalize the Community. This Community is meant for GitHub users to discuss projects, learn, and share ideas with one another - not for advertising or other spam-like content. Content that we  deem spammy will be removed.
 
@@ -74,7 +78,7 @@ The following are not hard and fast rules, merely aids to the human judgment of 
 
 - **Active malware or exploits.** Being part of this Community includes not taking advantage of other members of the Community. We do not allow anyone to use our platform for exploit delivery (e.g. Using the Community as a means to deliver malicious executables) or as attack infrastructure (e.g. Organizing denial of service attacks or managing command and control servers). Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
 
-- **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on the GitHub Community Forum (or GitHub itself). GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close both your GitHub Community Forum and GitHub.com accounts. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](https://help.github.com/articles/github-terms-of-service/) for information about account termination.
+- **Anyone under the age of 13.** If you're a child under the age of 13, you may not have an account on the GitHub Community Forum (or GitHub itself). GitHub does not knowingly collect information from or direct any of our content specifically to children under 13. If we learn or have reason to suspect that you are a user who is under the age of 13, we will unfortunately have to close both your GitHub Community Forum and GitHub.com accounts. We don't want to discourage you from learning to code, but those are the rules. Please see our [Terms of Service](/articles/github-terms-of-service/) for information about account termination.
 
 - **Other conduct which could reasonably be considered inappropriate in a professional setting.** The GitHub Community Forum is a professional space and should be treated as such.
 
@@ -106,9 +110,8 @@ If, for any reason, you want to contact GitHub Staff, the Community Managers, Ad
 
 Let's work together to keep the forum a place where people feel safe to participate by being respectful of them and their time.
 
-
 ### Legal Notices
 
-Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](https://help.github.com/articles/github-terms-of-service/) and [Privacy Statement](https://help.github.com/articles/github-privacy-statement/) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service](https://help.github.com/articles/github-terms-of-service/) and the [Privacy Statement](https://help.github.com/articles/github-privacy-statement/).
+Yes, legalese is boring, but we must protect ourselves – and by extension, you and your data – against unfriendly folks. We have a [Terms of Service](/articles/github-terms-of-service/) and [Privacy Statement](/articles/github-privacy-statement/) describing your (and our) behavior and rights related to content, privacy, and laws. To use this service, you must agree to abide by our [Terms of Service](/articles/github-terms-of-service/) and the [Privacy Statement](/articles/github-privacy-statement/).
 
-This Code of Conduct does not modify our [Terms of Service](https://help.github.com/articles/github-terms-of-service/) and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](https://help.github.com/articles/github-terms-of-service/) to remove any content or terminate any accounts for activity that is "unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service." This Code of Conduct describes when we will exercise that discretion.
+This Code of Conduct does not modify our [Terms of Service](/articles/github-terms-of-service/) and is not intended to be a complete list. GitHub retains full discretion under the [Terms of Service](/articles/github-terms-of-service/) to remove any content or terminate any accounts for activity that is "unlawful, offensive, threatening, libelous, defamatory, pornographic, obscene or otherwise objectionable or violates any party's intellectual property or these Terms of Service." This Code of Conduct describes when we will exercise that discretion.

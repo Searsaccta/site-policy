@@ -1,6 +1,10 @@
 ---
 title: GitHub Community Guidelines
-redirect_from: /community-guidelines/
+redirect_from:
+  - /community-guidelines/
+  - /articles/github-community-guidelines
+productVersions:
+  dotcom: '*'
 ---
 
 Millions of developers host millions of projects on GitHub — both open and closed source — and we're honored to play a part in enabling collaboration across the community every day. Together, we all have an exciting opportunity and responsibility to make this a community we can be proud of.
@@ -14,13 +18,17 @@ We rely on our community members to communicate expectations, [moderate](#what-i
 The primary purpose of the GitHub community is to collaborate on software projects.
 We want people to work better together. Although we maintain the site, this is a community we build *together*, and we need your help to make it the best it can be.
 
-* **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators on your projects and discussions.
+* **Be welcoming and open-minded** - Other collaborators may not have the same experience level or background as you, but that doesn't mean they don't have good ideas to contribute. We encourage you to be welcoming to new collaborators and those just getting started.
 
-* **Assume no malice** - Humans make mistakes, and disagreements or differences of opinion are a fact of life. Try to approach conflict from the perspective that people generally mean well. This will promote a respectful and friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions.
+* **Respect each other.**  Nothing sabotages healthy conversation like rudeness. Be civil and professional, and don’t post anything that a reasonable person would consider offensive, abusive, or hate speech. Don’t harass or grief anyone. Treat each other with dignity and consideration in all interactions.
 
-* **Stay on topic** - People use GitHub to get work done and to be more productive. Off topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+  You may wish to respond to something by disagreeing with it. That’s fine. But remember to criticize ideas, not people. Avoid name-calling, ad hominem attacks, responding to a post’s tone instead of its actual content, and knee-jerk contradiction. Instead, provide reasoned counter-arguments that improve the conversation.
 
-* **Be clear** - Communicating with strangers on the Internet can be awkward. It's hard to convey or read tone, and sarcasm is frequently misunderstood. Try to use clear language, and think about how it will be received by the other person.
+* **Communicate with empathy** - Disagreements or differences of opinion are a fact of life. Being part of a community means interacting with people from a variety of backgrounds and perspectives, many of which may not be your own. If you disagree with someone, try to understand and share their feelings before you address them. This will promote a respectful and friendly atmosphere where people feel comfortable asking questions, participating in discussions, and making contributions.
+
+* **Be clear and stay on topic** - People use GitHub to get work done and to be more productive. Off-topic comments are a distraction (sometimes welcome, but usually not) from getting work done and being productive. Staying on topic helps produce positive and productive discussions.
+
+   Additionally, communicating with strangers on the Internet can be awkward. It's hard to convey or read tone, and sarcasm is frequently misunderstood. Try to use clear language, and think about how it will be received by the other person.
 
 ### What if something or someone offends you?
 
@@ -28,7 +36,7 @@ We rely on the community to let us know when an issue needs to be addressed. We 
 
 * **Communicate expectations** - If you participate in a community that has not set their own, community-specific guidelines, encourage them to do so either in the README or [CONTRIBUTING file](/articles/setting-guidelines-for-repository-contributors/), or in [a dedicated code of conduct](/articles/adding-a-code-of-conduct-to-your-project/), by submitting a pull request.
 
-* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a repository, you can [edit](/articles/editing-a-comment/) or [delete](/articles/deleting-a-comment/) anyone's comments on commits, pull requests, and issues.
+* **Moderate Comments** - If you have [write-access privileges](/articles/repository-permission-levels-for-an-organization/) for a repository, you can edit, delete, or hide anyone's comments on commits, pull requests, and issues. Anyone with read access to a repository can view a comment's edit history. Comment authors and people with write access to a repository can delete sensitive information from a comment's edit history. For more information, see "[Tracking changes in a comment](/articles/tracking-changes-in-a-comment)" and "[Managing disruptive comments](/articles/managing-disruptive-comments)."
 
 * **Lock Conversations**  - If a discussion in an issue or pull request gets out of control, you can [lock the conversation](/articles/locking-conversations/).
 
@@ -50,7 +58,9 @@ We are committed to maintaining a community where users are free to express them
 
 * **Doxxing and invasion of privacy** - Don't post other people's personal information, such as phone numbers, private email addresses, physical addresses, credit card numbers, Social Security/National Identity numbers, or passwords. Depending on the context, such as in the case of intimidation or harassment, we may consider other information, such as photos or videos that were taken or distributed without the subject's consent, to be an invasion of privacy, especially when such material presents a safety risk to the subject.
 
-* **Sexually obscene content** - Basically, don't post pornography. This does not mean that all nudity or sexual content is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. If you have any questions or concerns about something you want to post, [feel free to reach out and ask](https://github.com/contact) beforehand.
+* **Sexually obscene content** - Don’t post content that is pornographic. This does not mean that all nudity, or all code and content related to sexuality, is prohibited. We recognize that sexuality is a part of life and non-pornographic sexual content may be a part of your project, or may be presented for educational or artistic purposes. We do not allow obscene sexual content or content that may involve the exploitation or sexualization of minors.
+
+* **Gratuitously violent content** - Don’t post violent images, text, or other content without reasonable context or warnings. While it's often okay to include violent content in video games, news reports, and descriptions of historical events, we do not allow violent content that is posted indiscriminately, or that is posted in a way that makes it difficult for other users to avoid (such as a profile avatar or an issue comment). A clear warning or disclaimer in other contexts helps users make an educated decision as to whether or not they want to engage with such content.
 
 * **Active malware or exploits** - Being part of a community includes not taking advantage of other members of the community. We do not allow anyone to use our platform for exploit delivery, such as using GitHub as a means to deliver malicious executables, or as attack infrastructure, for example by organizing denial of service attacks or managing command and control servers. Note, however, that we do not prohibit the posting of source code which could be used to develop malware or exploits, as the publication and distribution of such source code has educational value and provides a net benefit to the security community.
 

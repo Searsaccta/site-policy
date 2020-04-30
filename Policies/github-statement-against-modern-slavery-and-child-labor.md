@@ -1,6 +1,9 @@
 ---
 title: GitHub Statement Against Modern Slavery and Child Labor
-
+productVersions:
+  dotcom: '*'
+redirect_from:
+  - /articles/github-statement-against-modern-slavery-and-child-labor
 ---
 *2018 statement*
 
@@ -38,7 +41,7 @@ GitHub's supply chain consists of goods and services for our products and operat
 
 **GitHub's Standards of Conduct** prohibit unsafe and illegal conduct, including knowingly using, participating in, supporting, or tolerating modern slavery (slavery, forced or compulsory labor, trafficking, servitude, or workers who are imprisoned, indentured, or bonded) or child labor.
 
-GitHub complies with laws prohibiting trafficking and child labor in the jurisdictions in which it operates, including [U.S. Federal Acquisition Regulation 22.17 on combatting human trafficking](https://www.acquisition.gov/far/html/Subpart%2022_17.html).
+GitHub complies with laws prohibiting trafficking and child labor in the jurisdictions in which it operates, including [U.S. Federal Acquisition Regulation 22.17 on combatting human trafficking](https://www.govinfo.gov/content/pkg/CFR-2009-title48-vol1/pdf/CFR-2009-title48-vol1-part22-subpart22-17.pdf).
 
 In addition, GitHub established a partnership with the FairHotel Program, which means GitHub encourages its employees to choose FairHotel endorsed hotels-where workers have fair wages, adequate benefits, and a voice on the job. Being a FairHotel partner also signifies that GitHub provides business to hotels as a fair employer.
 
